@@ -1,0 +1,13 @@
+{
+  "name": "tsmicroapp",
+  "version": "0.0.0",
+  "description": "tsmicroapp",
+  "main": "app.js",
+  "author": {
+    "name": "sudharsan",
+    "email": ""
+  },
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}
